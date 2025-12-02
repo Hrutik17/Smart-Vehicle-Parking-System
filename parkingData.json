@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "slot": "A1",
+      "area": "Ruf Parking",
+      "carType": "SUV",
+      "charges": "₹100",
+      "status": "Expired",
+      "dateTime": "5/28/2025, 11:37:12 AM",
+      "expiryTime": "2025-05-28T08:07:12.472Z",
+      "id": "b03a"
+    },
+    {
+      "slot": "B1",
+      "area": "Basement",
+      "carType": "Sedan",
+      "charges": "₹200",
+      "status": "Expired",
+      "dateTime": "5/28/2025, 11:44:22 AM",
+      "expiryTime": "2025-05-28T08:14:22.640Z",
+      "id": "5dc9"
+    },
+    {
+      "id": "e02e",
+      "slot": "D1",
+      "area": "Open",
+      "carType": "Bike",
+      "charges": "free",
+      "status": "Available",
+      "dateTime": "",
+      "expiryTime": ""
+    },
+    {
+      "slot": "a",
+      "area": "open",
+      "carType": "car",
+      "charges": "free",
+      "status": "Expired",
+      "dateTime": "5/28/2025, 11:17:44 AM",
+      "expiryTime": "2025-05-28T07:47:44.450Z",
+      "id": "ddc3"
+    },
+    {
+      "id": "1741987256153",
+      "slot": "b",
+      "area": "Basement",
+      "carType": "Bike",
+      "charges": "₹80",
+      "status": "Expired",
+      "dateTime": "5/28/2025, 11:36:31 AM",
+      "expiryTime": "2025-05-28T08:06:31.748Z"
+    },
+    {
+      "slot": "c",
+      "area": "Ruf Parking",
+      "carType": "car",
+      "charges": "₹240",
+      "status": "Expired",
+      "dateTime": "5/31/2025, 11:59:28 AM",
+      "expiryTime": "2025-05-31T12:29:28.640Z",
+      "id": "0f5d"
+    },
+    {
+      "id": "b230",
+      "slot": "e",
+      "area": "open",
+      "carType": "Alto",
+      "charges": "₹600",
+      "status": "Available",
+      "dateTime": "",
+      "expiryTime": ""
+    },
+    {
+      "id": "a52b",
+      "slot": "e",
+      "area": "Basement",
+      "carType": "Bike",
+      "charges": "20",
+      "status": "Available",
+      "dateTime": "",
+      "expiryTime": ""
+    },
+    {
+      "id": "251d",
+      "slot": "S1",
+      "area": "Ground floor",
+      "carType": "KTM",
+      "charges": "Free",
+      "status": "Expired",
+      "dateTime": "5/28/2025, 11:18:00 AM",
+      "expiryTime": "2025-05-28T13:18:00.000Z"
+    },
+    {
+      "id": "3faa",
+      "slot": "H1",
+      "area": "Ground",
+      "carType": "XUV700",
+      "charges": "₹300",
+      "status": "Expired",
+      "dateTime": "6/6/2025, 11:27:55 PM",
+      "expiryTime": "2025-06-06T20:57:55.681Z"
+    },
+    {
+      "id": "02b0",
+      "slot": "2",
+      "area": "pune",
+      "carType": "bmw",
+      "charges": "50",
+      "status": "awailable"
+    },
+    {
+      "id": "ea38",
+      "slot": "4",
+      "area": "lll",
+      "carType": "55",
+      "charges": "566",
+      "status": "open"
+    },
+    {
+      "id": "901b",
+      "slot": "B2",
+      "area": "Basement",
+      "carType": "KTM",
+      "charges": "200",
+      "status": "awailable"
+    },
+    {
+      "id": "a1bd",
+      "slot": "A3",
+      "area": "basement",
+      "carType": "3",
+      "charges": "₹90",
+      "status": "Booked",
+      "dateTime": "9/23/2025, 11:35:05 AM",
+      "expiryTime": "2025-09-23T09:05:05.208Z"
+    }
+  ]
+}

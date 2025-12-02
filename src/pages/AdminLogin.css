@@ -1,0 +1,84 @@
+
+
+.admin-login {
+    align-items: flex-start; 
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    background-image: url('https://cdn.pixabay.com/photo/2024/06/07/07/47/car-8814158_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.admin-login h2 {
+    color: yellow;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size:35px;
+    letter-spacing: 1px;
+    text-shadow:0px 6px 10px  rgb(64, 4, 168);
+}
+
+ .box {
+    margin-left: 450px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(8px);
+    border-radius: 15px;
+    padding: 40px 30px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 350px;
+}
+
+ input {
+    width:90%;
+    padding: 12px 15px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #333;
+    font-size: 16px;
+    outline: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+}
+
+#button{
+    width: 90%;
+    /* margin-left: 10px; */
+   
+    width: 100%;
+    padding: 12px;
+    background-color:rgb(10, 178, 10);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background 0.3s ease;
+}
+
+admin-login input:focus {
+    transform: scale(1.05);
+    border: 2px solid #4facfe;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #4facfe;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background 0.3s ease;
+}
+
+admin-login button:hover {
+    background-color: #00c6ff;
+    transform: scale(1.05);
+}
+

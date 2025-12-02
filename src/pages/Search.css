@@ -1,0 +1,80 @@
+
+/* Search.css */
+
+.search-container {
+    display: flex;
+    align-items: flex-start; /* Align content to the top */
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    background-image: url('https://cdn.pixabay.com/photo/2024/06/07/07/47/car-8814158_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.search-box {
+      background-color: rgba(255, 255, 255, 0.95); /* Semi-transparent white for better visibility */
+      padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    border: 2px solid #4CAF50;
+    max-width: 500px;
+    width: 100%;
+    text-align: center; 
+    margin-top: 90px; 
+        
+    }
+    
+
+h2 {
+    color: #4CAF50;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-size: 2rem;
+}
+
+.search-box input[type="text"] {
+    width: 60%;  /* Increased width */
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    outline: none;
+    transition: border 0.3s ease;
+}
+
+input[type="text"]:focus {
+    border-color: #45a049;
+}
+
+.search-box button {
+    width: 60%;  /* Increased width */
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 0;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.search-result {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f0fff0;
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.search-result p {
+    margin: 5px 0;
+    font-weight: bold;
+}

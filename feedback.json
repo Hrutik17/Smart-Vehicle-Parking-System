@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "name": "Rahul Patil",
+      "feedback": "Great parking experience! Easy booking process and well-organized slots."
+    },
+    {
+      "name": "Sneha Kulkarni",
+      "feedback": "The app is very user-friendly, and the instructions are clear. Highly recommended!"
+    },
+    {
+      "name": "Amit Desai",
+      "feedback": "Booking was fast and smooth. I really liked the feature to search by area."
+    },
+    {
+      "name": "Priya Shah",
+      "feedback": "Good service overall. It would be great if you add more slots near the city center."
+    },
+    {
+      "name": "Vikram Joshi",
+      "feedback": "I faced some issues while canceling my slot, but customer support was helpful."
+    },
+    {
+      "id": "5de5",
+      "name": "Shruti Patil",
+      "feedback": "Nice app"
+    }
+  ]
+}

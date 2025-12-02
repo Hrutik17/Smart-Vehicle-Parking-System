@@ -1,0 +1,78 @@
+/* firstPage.css */
+.firstpage-container {
+    display: flex;
+    height: 100vh;
+    background-image: url('https://cdn.pixabay.com/photo/2024/06/07/07/47/car-8814158_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden; 
+}
+
+.firstpage-box {
+    background-color: white;
+    /* background-color: rgba(255, 255, 255, 0.9); */
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 400px;
+    animation: dropdown 1s ease-out forwards;
+}
+
+@keyframes dropdown {
+    from {
+        transform: translateY(-100%);  /* Start position: Top */
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);      /* End position: Center */
+        opacity: 1;
+    }
+}
+
+#title {
+    color: #000099;
+    font-size: 3.5rem;
+    margin-bottom: 10px;
+    text-shadow: 2px 8px 10px red;
+}
+
+
+p {
+    color: #333;
+    margin-bottom: 30px;
+    font-size: 1.2rem;
+}
+
+.button-group {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    font-size: 1.1rem;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.register-btn {
+    background-color: #28a745;
+}
+
+.register-btn:hover {
+    background-color: #218838;
+}
