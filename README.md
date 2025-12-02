@@ -1,11 +1,6 @@
 # Smart-Vehicle-Parking-System
 
-**Duration:** Feb 2025 – May 2025  
-**GitHub:** [Link to your repo]()
-
 A full-stack web application that allows users to view, book, and manage real-time parking slot availability with an interactive and user-friendly interface.
-
----
 
 ## 🔹 Key Features
 - **Real-Time Slot Monitoring:** Instantly view available and occupied parking slots.
@@ -14,15 +9,13 @@ A full-stack web application that allows users to view, book, and manage real-ti
 - **Full-Stack Architecture:** Backend built with Node.js and json-server for simulating APIs and managing parking data.
 - **Seamless Operations:** Smooth user experience with real-time updates and fast interactions.
 
----
 
 ## 🔹 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js  
-- **Database (Mock):** json-server  
-- **Tools:** VS Code, Git, GitHub  
+ **Frontend:** HTML, CSS, JavaScript  
+ **Backend:** Node.js  
+ **Database (Mock):** json-server  
+ **Tools:** VS Code, Git, GitHub  
 
----
 
 ## 🔹 How It Works
 1. User checks available parking slots.  
@@ -31,7 +24,6 @@ A full-stack web application that allows users to view, book, and manage real-ti
 4. User can modify or cancel bookings anytime.  
 5. Data syncs in real-time via json-server APIs.
 
----
 
 ## 🔹 Project Highlights
 - Modular and scalable parking management workflow.
@@ -39,7 +31,6 @@ A full-stack web application that allows users to view, book, and manage real-ti
 - Efficient logic for availability, booking, and billing.
 - Cross-device responsiveness and fast loading interface.
 
----
 
 ## 🔹 Future Enhancements
 - Admin dashboard for managing all parking slots.  
@@ -47,12 +38,6 @@ A full-stack web application that allows users to view, book, and manage real-ti
 - OTP-based login for user authentication.  
 - IoT-based live parking sensor integration for real-time updates.
 
----
-
-## 🔹 Screenshots
-*Add some screenshots of your app here to make it visually appealing.*
-
----
 
 ## 🔹 Installation
 ```bash
